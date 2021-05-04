@@ -1,6 +1,7 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
+ * Tesla Clone React Native App
+ * Author: M.Haris Noori
+ * https://haris-noori.github.io
  *
  * @format
  * @flow strict-local
