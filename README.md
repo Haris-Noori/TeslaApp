@@ -1,5 +1,5 @@
 # Tesla Clone React Native App
 
 <p align="center">
-    <img src="https://pngimg.com/uploads/tesla_logo/tesla_logo_PNG21.png" width="200">
+    <img src="https://www.seekpng.com/png/detail/15-151235_tesla-png-logo-transparent-background-tesla-logo.png" width="300">
 </p>
